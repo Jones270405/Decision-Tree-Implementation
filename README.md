@@ -1,5 +1,6 @@
 # Task 1: Decision Tree Implementation  
 **Machine Learning Internship – EliTech**
+---
 
 ## Overview
 This project is part of **Task 1** of the **Machine Learning Internship at EliTech**.  
