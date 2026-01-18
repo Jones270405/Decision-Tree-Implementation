@@ -1,10 +1,10 @@
 # Task 1: Decision Tree Implementation  
-**Machine Learning Internship – EliTech**
+**Machine Learning Internship – EliteTech**
 
 ---
 
 ## Overview
-This project is part of **Task 1** of the **Machine Learning Internship at EliTech**.  
+This project is part of **Task 1** of the **Machine Learning Internship at EliteTech**.  
 The objective of this task is to build, train, and visualize a **Decision Tree model** using a real-world dataset and analyze its performance.
 
 ---
